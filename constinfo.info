@@ -1,0 +1,13 @@
+
+const int *a; 
+int const *a;
+这两种写法是一样的，a是一个指向const int型的指针，a所指向的内存单元不可改写，所 以(*a)++是不允许的，但a可以改写，所以a++是允许的
+
+int * const a;
+a是一个指向int型的const指针，*a是可以改写的，但a不允许改写。
+
+int const * const a;
+a是一个指向const int型的const指针，因此*a和a都不允许改写。
+
+
+

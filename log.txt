@@ -1,0 +1,22 @@
+0000000   #   i   n   c   l   u   d   e       <   s   t   d   i   o   .
+0000020   h   >  \n   i   n   t       n   G   l   o   b   a   l   V   a
+0000040   r   =   0   ;  \n   i   n   t       t   e   m   p   F   u   n
+0000060   c   t   i   o   n   (   i   n   t       a   ,   i   n   t    
+0000100   b   )  \n   {  \n               p   r   i   n   t   f   (   "
+0000120   t   e   m   p   F   u   n   c   t   i   o   n       i   s    
+0000140   c   a   l   l   e   d   ,       a   =   %   d   ,   b   =   %
+0000160   d       \   n   "   ,   a   ,   b   )   ;  \n               r
+0000200   e   t   u   r   n       (   a   +   b   )   ;  \n   }  \n   i
+0000220   n   t       m   a   i   n   (   )  \n   {  \n           i   n
+0000240   t       n   =   1   ;  \n           n   +   +   ;   n   -   -
+0000260   ;  \n           n   G   l   o   b   a   l   V   a   r       +
+0000300   =   1   0   0   ;  \n           n   G   l   o   b   a   l   V
+0000320   a   r       -   =   1   2   ;  \n           p   r   i   n   t
+0000340   f   (   "   n       =   %   d   ,       n   G   l   o   b   a
+0000360   l   V   a   r       =   %   d       \   n   "   ,   n   ,   n
+0000400   G   l   o   b   a   l   V   a   r   )   ;  \n           n   =
+0000420   t   e   m   p   F   u   n   c   t   i   o   n   (   1   ,   2
+0000440   )   ;  \n           p   r   i   n   t   f   (   "   n       =
+0000460       %   d   \   n   "   ,   n   )   ;  \n           r   e   t
+0000500   u   r   n       0   ;  \n   }  \n
+0000511
